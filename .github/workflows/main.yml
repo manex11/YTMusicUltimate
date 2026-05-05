@@ -16,7 +16,7 @@ on:
 
       bundle_id:
         description: "BundleID (Optional)"
-        default: "com.manex.ytmusic"
+        default: "com.google.ios.youtubemusic"
         required: true
         type: string
 
